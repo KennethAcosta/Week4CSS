@@ -1,0 +1,22 @@
+h1{color:rgb(176, 255, 188);}
+h2{color:rgb(176, 255, 188)}
+span{color: rgb(176, 255, 188)}
+p { font-size: small; text-decoration: none;}
+p{color:rgb(90, 243, 90);}
+body{background-color: rgb(23, 37, 26);}
+.colorbox{background-color: rgb(74, 111, 88);}
+#david h2, #david p {color:rgb(176, 255, 188)} 
+#myarticle {
+        background-color: rgb(70, 169, 136);
+        padding: 5px 50px 15px;
+        border: 15px;
+        border-color: brown;
+        margin: 10px;
+}
+#mydiv{
+        background-color: rgb(70, 169, 136);
+        padding: 5px 50px 15px;
+        border: 15px;
+        border-color: brown;
+        margin: 10px;
+}
